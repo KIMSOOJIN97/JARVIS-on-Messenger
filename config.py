@@ -7,8 +7,7 @@ WIT_AI_ACCESS_TOKEN = 'IKJJJYYVR3X672DHFVS7U7C4L2MQSS2P'
 FACTS_SOURCE_FILE = 'data/facts.json'
 JOKES_SOURCE_FILE = 'data/jokes.json'
 QUOTES_SOURCE_FILE = 'data/quotes.json'
-
-# Access token files
+EMOTICONS_SOURCE_FILE = 'data/emoticon.json'
 SPOTIFY_TOKEN_FILE = 'tokens/spotify_token.json'
 
 # API Keys
